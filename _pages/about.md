@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center><a href="https://XM-Tan.github.io/" title="Xiaomeng Tan">Xiaomeng Tan (檀晓萌)</a></center>
+title: <center><a href="https://xm-tan.github.io/" title="Xiaomeng Tan">Xiaomeng Tan (檀晓萌)</a></center>
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
