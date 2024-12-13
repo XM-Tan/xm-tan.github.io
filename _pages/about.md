@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. student in the [National Space Center of the Chinese Academy of Sciences (CAS)](http://english.nssc.cas.cn/).
+Short Bio
+======
 
+I'm currently a Ph.D. student in the [National Space Center of the Chinese Academy of Sciences (CAS)](http://english.nssc.cas.cn/). 
 I am very fortunate to be advised by [Prof. Changbin Xue](https://people.ucas.edu.cn/~xuechangbin).
+My research interest include Zero-Shot Learning, Visual-Language Models, and Multimodality Learning for deep space exploration. 
 
 [Email](tanxiaomeng22@mails.ucas.ac.cn) / [Github](https://github.com/XM-Tan)
 
-Research Interest
-======
-My research interests include but not only limiting to
-* Zero-Shot Learning
-* Visual-Language Models
-* Multimodality Learning for deep space exploration
 
-<font size = 5 color = blue face=STKaiti>News!</font>
+<font size = 5 color = blue face=STKaiti>Publications!</font>
 
 * [2024/09] One paper titled **A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10699382)
 
