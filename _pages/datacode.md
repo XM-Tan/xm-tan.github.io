@@ -25,34 +25,6 @@ redirect_from:
 | Unknown          | Unknown areas beyond the above categories, such as images of the Mars rover itself.                 | <img src="..\images\pic\class10.png" alt="image-10" style="zoom:50%;" /> |
 
 
-
-<!-- ### **2.文件组成**及使用方法
-
-#### 2.1文件组成
-
-Mars-Seg
-
-├─MER
-│  ├─JPEGImages	原始图像（.jpg）
-│  └─SegmentationClassPNG	语义分割标签（.png）
-└─MSL
-    ├─JPEGImages	原始图像（.jpg）
-    └─SegmentationClassPNG	语义分割标签（.png）
-
-​	本数据集按照图像格式以及数据来源划分为了两组，其中MER数据集中均为1024 ×1024的灰度图像，MSL数据集中均为560×500的RGB图像。
-
-#### 2.2使用方法
-
-在有监督方法中，可以使用单独的MER或者MSL数据集完成训练、验证和测试；在无监督方法中，可以使用其中的任意一组作为源域数据集，另一组作为目标域数据集进行域适应训练。
-
-#### 3.2数据类别统计
-
-<img src="..\images\pic\counter.png" alt="image-20220507173246046" style="zoom:50%;" />
-
-我们统计了数据集中包含各个类别的图像数量。 -->
-
-
-
 ### Citation of papers
 
 If you have used our dataset in your research, please remember to cite our paper.
