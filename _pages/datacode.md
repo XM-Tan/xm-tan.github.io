@@ -57,7 +57,7 @@ Mars-Seg
 
 If you have used our dataset in your research, please remember to cite our paper.
 
-Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Jocelyn Chanussot. A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1–16. doi:10.1109/TGRS.2024.3470526. [[PDF]](https://ieeexplore.ieee.org/document/10699382)[[Code]](https://github.com/XM-Tan/KDMSC)
+Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Jocelyn Chanussot. A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1–16. [[PDF]](https://ieeexplore.ieee.org/document/10699382)[[Code]](https://github.com/XM-Tan/KDMSC)
 
 <!-- #### 论文亮点
 
