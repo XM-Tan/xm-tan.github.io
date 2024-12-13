@@ -48,7 +48,7 @@ Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Joc
   doi={10.1109/TGRS.2024.3470526}}
 ``` -->
 
-### [Google Drive Download Link](https://drive.google.com/drive/folders/1H0rA5CFzubRzLufm9y0YpSDPYMv63r5k?usp=drive_link)
+### [Google Drive Download Link](https://drive.google.com/drive/folders/1H0rA5CFzubRzLufm9y0YpSDPYMv63r5k?usp=sharing)
 
 ### Many thanks to the participants who built this dataset:
 
