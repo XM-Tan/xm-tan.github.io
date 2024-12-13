@@ -57,37 +57,40 @@ Mars-Seg
 
 If you have used our dataset in your research, please remember to cite our paper.
 
-Jiaojiao Li, Shunyao Zi, Rui Song, Yunsong Li, Yinlin Hu, Qian Du, Cov-DA: A Stepwise Domain Adaptive Segmentation Network with Covariate shift Alleviation for Remote Sensing Imagery, IEEE Transactions on Geoscience and Remote Sensing, 60: 1-15, 2022. doi:10.1109/TGRS.2022.3152587. [[PDF]](https://ieeexplore.ieee.org/document/9716091)[[Code]](https://github.com/KL-Ding/TGRS-Cov_DA)
+Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Jocelyn Chanussot. A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1–16. doi:10.1109/TGRS.2024.3470526. [[PDF]](https://ieeexplore.ieee.org/document/10699382)[[Code]](https://github.com/XM-Tan/KDMSC)
 
 <!-- #### 论文亮点
 
 ​	我们提出了一种基于协变量域偏移的逐步域自适应分割网络。具体来说，为了缓解不同传感器采集数据时产生的协变量域偏移，我们设计了一个色彩空间映射统一模块。另外，使用了一个多统计量联合评估模块来捕捉子场景的不同统计特征，用于筛选目标域中高置信度的数据，并通过二次域适应进一步提高分割性能。
 
 ```
-@ARTICLE{9716091,
-  author={Li, Jiaojiao and Zi, Shunyao and Song, Rui and Li, Yunsong and Hu, Yinlin and Du, Qian},
+@ARTICLE{10699382,
+  author={Tan, Xiaomeng and Xi, Bobo and Xu, Haitao and Li, Jiaojiao and Li, Yunsong and Xue, Changbin and Chanussot, Jocelyn},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={A Stepwise Domain Adaptive Segmentation Network With Covariate Shift Alleviation for Remote Sensing Imagery}, 
-  year={2022},
-  volume={60},
+  title={A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification}, 
+  year={2024},
+  volume={62},
   number={},
-  pages={1-15},
-  doi={10.1109/TGRS.2022.3152587}}
+  pages={1-16},
+  keywords={Mars;Visualization;Semantics;Feature extraction;Scene classification;Image recognition;Microwave integrated circuits;Accuracy;Transformers;Data models;Knowledge distillation (KD);lightweight model;Mars scene classification (MSC);zero-shot learning (ZSL)},
+  doi={10.1109/TGRS.2024.3470526}}
 ``` -->
 
 ### [Google Drive Download Link](https://drive.google.com/drive/folders/1nOe2kNdI11MCohKwVuNoMcl8T7xoPAsS?usp=sharing)
 
 ### Many thanks to the participants who built this dataset:
 
-Bobo Xi, Chaoxiong Wu, Huanqing Zhang, Shunyao Zi, Yinle Ma, Songcheng Du, Kexin Wang, Chenxi Ji, Siyao Fan, Chiyu Chen, Hantao Zhou, Shuangying Wei, Mingze He, Qiaoyang Ren, Jiyao Liu, Fangrui Kang, Shaoze Peng, Chaohui Wang, Aohong Sun, Pengju Tian, Siyuan Xu, Xinhang Li, Haoxuan Wang, Xueyao Zhang, Ziquan Wang, Xinyuan Li, Zejun Ou, Hanwen Li, Hao Wen, Jiachao Liu, Penghao Tian, Yan Diao, Yuzhe Liu, Xuan Chen, Zhiyuan Zhang, and Yihong leng.
+Xiaomeng Tan, Bobo Xi, Hui Cui, Sihan Bai, Yuxuan Wang, Jingran Li, and Yiming Wang for their support of ZSMars dataset annotations. Specifically, they would also like to thank Prof. Yang Liu for his suggestions on the definitions of the image categories.
 
 <!-- #### 构建数据集成员
 
-博士生：席博博、武超雄
+席博博
 
-硕士生：刘佳超、张欢庆、訾顺遥、马寅乐、杜松乘、田鹏昊、刁妍、刘玉哲、陈轩
+博士生：檀晓萌
 
-本科生：张致源、冷奕泓 -->
+硕士生：王一鸣
+
+本科生：崔慧、白思涵、王雨轩、李竟冉 -->
 
 
 <!-- ## Avaiable code -->
