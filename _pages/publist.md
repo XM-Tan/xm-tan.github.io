@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "My publications"
+permalink: /publist/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+1. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui Song, Danfeng Hong, Jocelyn Chanussot. Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classification[J]. IEEE Transactions on Image Processing, 2022, 31: 5079-5092. (SCI: 000835774000008, EI: 20223312567144) (SCI,Q1 IF: 10.6)
+2. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui song, Yuchao Xiao, Qian Du, Jocelyn Chanussot. Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(11): 9337-9351. (SCI: 000773236200001, EI: 20221311864439) (SCI,Q1 IF: 14.255)
+3. **Bobo Xi**, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot. DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(4): 1535-1548. (SCI: 000970594600004, EI: 20224413035399) (SCI,Q1  IF: 8.4)
+4. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Yanzi Shi, Qian Du. Multi-Direction Networks With Attentional Spectral Prior for Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-15. (SCI: 000726094900068, EI: 20210409829719) (SCI,Q1  IF: 8.2)
+5. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui Song, Weiwei Sun, Qian Du. Multiscale Context-Aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 59 (6): 5114-5130. (SCI: 000652834200046, EI: 20212210438015) (SCI,Q1  IF: 8.2)
+6. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui Song, Yanzi Shi, Songlin Liu, Qian Du. Deep Prototypical Networks With Hybrid Residual Attention for Hyperspectral Image Classification[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, 13: 3683-3700. (SCI: 000546890600013, EI: 20202908955085) (SCI,Q3  IF: 5.5)
+7. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Qian Du. Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification[C]. 2021 IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2021: 2851-2854. (EI)
+8. Yunsong Li, **Bobo Xi***, Jiaojiao Li, Rui Song, Yuchao Xiao, Jocelyn Chanussot. SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022, 15: 609-622. (SCI: 000739632400007, EI: 20215211398385) (SCI,Q3  IF: 5.5)
+9. Qihan Xu, **Bobo Xi***, Haitao Xu, Yun Huang, Yunsong Li, Jocelyn Chanussot. Small Object Aware Video Coding for Machines via Feature-Motion Synergy[J]. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 1-5. (SCI,Q2 IF: 4.8) 
+10. Jiaojiao Li, Yinle Ma, Rui Song, **Bobo Xi***, Yunsong Li, Danfeng Hong, Qian Du. A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-13. (SCI: 000874066100028, EI: 20224212976083)(SCI,Q1 IF: 8.2)
+11. Jiaojiao Li, Yan Diao, Rui Song, **Bobo Xi***, Yunsong Li, Qian Du. Class-Specific Auto-augment Architecture Based on Schmidt Mathematical Theory for Imbalanced Hyperspectral Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-15. (SCI,Q1 IF: 8.2)
+12. Jiaojiao Li, **Bobo Xi**, Qian Du, Rui Song, Yunsong Li, Guangbo Ren. Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery[J]. Remote Sensing, 2018, 10 (12): 2036 (SCI: 000455637600178, EI: 20185206292634) (SCI,Q2 IF: 5.0）
+13. Jiaojiao Li, **Bobo Xi**, Yunsong Li, Qian Du, Keyan Wang. Hyperspectral Classification Based on Texture Feature Enhancement and Deep Belief Networks[J]. Remote Sensing, 2018, 10 (3): 396. (SCI: 000428280100042, EI: 20181204934871) (SCI,Q2 IF: 5.0)
+14. Yan Huang, Xiao Zhou, **Bobo Xi**, Jiaojiao Li, Jian Kang, Shiyang Tang, Zhanye Chen, Wei Hong. Diverse-Region Hyperspectral Image Classification via Superpixelwise Graph Convolution Technique[J]. Remote Sensing, 2022, 12 (14): 2907. (SCI: 000818328800001, EI: 20222612286549) (SCI,Q2 IF: 5.0)
+15. Jiaojiao Li, Qian Du, **Bobo Xi**, Yunsong Li. Hyperspectral Image Classification Via Sample Expansion for Convolutional Neural Network[C]. 2018 9th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS 2018). (EI)
+16. Yunsong Li, Yanzi Shi, Keyan Wang, **Bobo Xi**, Jiaojiao Li, Paolo Gamba[J]. Target Detection With Unconstrained Linear Mixture Model and Hierarchical Denoising Autoencoder in Hyperspectral Imagery[J]. IEEE Transactions on Image Processing, 2022, vol 31: 1418 – 1432.  (SCI: 000747453200013, EI: 20220411531642) (SCI,Q1 IF: 10.6)
+17. Yanzi Shi, Jiaojiao Li, Yuxuan Zheng, **Bobo Xi**, Yunsong Li. Hyperspectral Target Detection with RoI Feature Transformation and Multiscale Spectral Attention[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, vol. 56 (6): 5071-5084. (SCI: 000652834200043, EI: 20212210437424) (SCI,Q1  IF: 8.2)
+18. Yanzi Shi, Jiaojiao Li, Yaping Yin, **Bobo Xi**, Yunsong Li. Hyperspectral Target Detection With Macro-Micro Feature Extracted by 3-D Residual Autoencoder[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, 12 (12): 4907-4919. (SCI: 000515698700018, EI: 20200708171128) (SCI,Q3  IF: 5.5)
+19. Jiaojiao Li, Xi Zhao, Yunsong Li, Qian Du, **Bobo Xi**, Jing Hu. Classification of Hyperspectral Imagery Using a New Fully Convolutional Neural Network[J]. IEEE Geoscience and Remote Sensing Letters, 2018,15(2), 292-296. (SCI: 000423615300027, EI: 20180304657590) (SCI,Q2 IF: 4.8)
+20. Jiahui Qu, Yunsong Li, Qian Du, Wenqian Dong, **Bobo Xi**. Hyperspectral Pansharpening Based on Homomorphic Filtering and Weighted Tensor Matrix[J]. Remote Sensing, 2019, 11 (9):1005. (SCI: 000469763600013, EI: 20192106946628) (SCI,Q2 IF: 5.0)

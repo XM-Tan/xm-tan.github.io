@@ -1,0 +1,25 @@
+# main links links
+main:
+
+  - title: "Curriculum Vitae"
+    url: /cv/
+
+  - title: "Reasearch"
+    url: /reasearch/   
+
+  - title: "Publications"
+    url: /publist/
+ 
+  - title: "Data & Code"
+    url: /datacode/
+
+  
+  # - title: "Education Experience"
+  #   url: /teaching/
+
+  # - title: "Awards"
+  #   url: /talks/
+
+  # - title: "My team"
+  #   url: /team/
+
