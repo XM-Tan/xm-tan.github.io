@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a Ph.D. student in the [National Space Center of the Chinese Academy of Sciences (CAS)](http://english.nssc.cas.cn/).
 
-I am very fortunate to be advised by [Prof. Changbin Xue](https://people.ucas.edu.cn/~xuechangbin/).
+I am very fortunate to be advised by [Prof. Changbin Xue](https://people.ucas.edu.cn/~xuechangbin).
 
 [Email](tanxiaomeng22@mails.ucas.ac.cn) / [Github](https://github.com/XM-Tan)
 
