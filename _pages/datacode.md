@@ -76,8 +76,6 @@ Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Joc
   doi={10.1109/TGRS.2024.3470526}}
 ``` -->
 
-### [Google Drive Download Link](https://drive.google.com/drive/folders/1nOe2kNdI11MCohKwVuNoMcl8T7xoPAsS?usp=sharing)
-
 ### Many thanks to the participants who built this dataset:
 
 Xiaomeng Tan, Bobo Xi, Hui Cui, Sihan Bai, Yuxuan Wang, Jingran Li, and Yiming Wang for their support of ZSMars dataset annotations. Specifically, they would also like to thank Prof. Yang Liu for his suggestions on the definitions of the image categories.
