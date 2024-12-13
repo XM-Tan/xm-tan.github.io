@@ -33,9 +33,7 @@ If you have used our dataset in your research, please remember to cite our paper
 
 Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Jocelyn Chanussot. A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1–16. [[PDF]](https://ieeexplore.ieee.org/document/10699382)[[Code]](https://github.com/XM-Tan/KDMSC)
 
-<!-- #### 论文亮点
-
-​	我们提出了一种基于协变量域偏移的逐步域自适应分割网络。具体来说，为了缓解不同传感器采集数据时产生的协变量域偏移，我们设计了一个色彩空间映射统一模块。另外，使用了一个多统计量联合评估模块来捕捉子场景的不同统计特征，用于筛选目标域中高置信度的数据，并通过二次域适应进一步提高分割性能。
+<!-- #### 
 
 ```
 @ARTICLE{10699382,
@@ -49,6 +47,8 @@ Xiaomeng Tan, Bobo Xi, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, and Joc
   keywords={Mars;Visualization;Semantics;Feature extraction;Scene classification;Image recognition;Microwave integrated circuits;Accuracy;Transformers;Data models;Knowledge distillation (KD);lightweight model;Mars scene classification (MSC);zero-shot learning (ZSL)},
   doi={10.1109/TGRS.2024.3470526}}
 ``` -->
+
+### [Google Drive Download Link](https://drive.google.com/drive/folders/1H0rA5CFzubRzLufm9y0YpSDPYMv63r5k?usp=drive_link)
 
 ### Many thanks to the participants who built this dataset:
 
