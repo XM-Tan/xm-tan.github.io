@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
      
-* B.S. in Beijing University of Chemical Technology, 2015
+* B.S. in Beijing University of Chemical Technology, 2019
 * Ph.D in National Space Science Center, University of Chinese Academy of Sciences, supervised by Prof. Changbin Xue
 
 
