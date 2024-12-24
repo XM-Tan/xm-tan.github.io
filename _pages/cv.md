@@ -18,7 +18,7 @@ redirect_from:
 
 ## Project：
 
-* Participate in the Youth Open Project of the National Space Science Data Center under Grant. 
+* Participate in the Youth Open Project of the National Space Science Data Center. 
 
 ## Award
   
